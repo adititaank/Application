@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "410105299218",
+    "firebase_url": "https://khushhali-be2af.firebaseio.com",
+    "project_id": "khushhali-be2af",
+    "storage_bucket": "khushhali-be2af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410105299218:android:26e66d8cf6486ae36ef3cb",
+        "android_client_info": {
+          "package_name": "com.example.android.Khushhali"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410105299218-mbiiekutht60pnoubffqhcdevq82l1s4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6GJbbRuHMnhNVo0BfwtKXQe80HlPcaTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410105299218-mbiiekutht60pnoubffqhcdevq82l1s4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
